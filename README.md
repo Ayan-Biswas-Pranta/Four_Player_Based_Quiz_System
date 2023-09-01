@@ -8,3 +8,24 @@ Features: <br>
   <li> Winner/s is/are shown by LED </li> <br>
   </ul>
 <br>
+
+<img
+  src="workflow.jpg"
+  alt="Alt text"
+  title="EVM"
+  style="display: inline-block; margin: 0 auto; max-width: 500px; height:500px">
+
+
+  <img
+  src="scoreboard.jpg"
+  alt="Alt text"
+  title="EVM"
+  style="display: inline-block; margin: 0 auto; max-width: 500px; height:500px">
+
+
+  <img
+  src="ckt.jpg"
+  alt="Alt text"
+  title="EVM"
+  style="display: inline-block; margin: 0 auto; max-width: 500px; height:500px">
+  
